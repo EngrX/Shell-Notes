@@ -1,6 +1,6 @@
 # LEARNING SHELL SCRIPTING
 
-I'm a Professional Electronics Engineer who's passionate about Cloud Technologies and I would love to become a Cloud Engineer/Cloud Architect.
+I'm a Professional Electronics Engineer who's passionate about Cloud Technologies and my target is to become a professional Cloud Engineer/Cloud Architect in 3-5 years.
 
 I'm pursuing Cloud DevOps Engineer position and hopefully by learning this skill will help me land my target role.
 
