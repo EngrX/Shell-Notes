@@ -1,14 +1,19 @@
-# LEARNING SHELL SCRIPTING
+# Learning Shell Scripting
 
-## I'm pursuing Cloud DevOps Engineer position and hopefully by learning this skill will help me land my target role.
+<p> I'm pursuing Cloud DevOps Engineer position and hopefully by learning this skill will help me land my target role. </p>
 
-### 3M'S
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-METHOD
-MINDSET
-MOTIVATION
-Formula for a sustainable motivation = Purpose x Energy x Small Simple Steps.
+### 3M'S by Jim Kwik
 
----
+	METHOD
+	MINDSET
+	MOTIVATION
 
-- ENGR X
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p> Formula for a sustainable motivation = Purpose x Energy x Small Simple Steps. </p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-Engr X
