@@ -147,14 +147,4 @@
 #     ;;
 # esac
 
-# FOR LOOP
-
-
-read -p "What's your name? " MASH
-echo "Your name is $MASH " 
-echo "..."
-
-
-
-
 
